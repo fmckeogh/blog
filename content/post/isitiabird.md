@@ -1,7 +1,7 @@
 ---
 title: "Convolutional Neural Network Bird Detector"
 date: 2017-06-10
-hero: "/images/isitabird.png"
+hero: "/blog/images/isitabird.png"
 ---
 
 ~~Now live at [isitabird.mckeogh.tech](https://isitabird.mckeogh.tech) EDIT: Also now written entirely in Go!~~

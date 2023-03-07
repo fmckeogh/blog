@@ -1,7 +1,7 @@
 ---
 title: My First Quadcopter
 date: 2011-03-12
-hero: "/images/micro-quad.jpg"
+hero: "/blog/images/micro-quad.jpg"
 authors:
   - Ferdia McKeogh
 ---

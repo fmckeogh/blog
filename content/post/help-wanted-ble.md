@@ -1,7 +1,7 @@
 +++
 title = "Help Wanted Solving Our BLE Stack Problem"
 date = 2019-06-13
-hero = "/images/help-wanted-ble.jpg"
+hero = "/blog/images/help-wanted-ble.jpg"
 draft = true
 +++
 

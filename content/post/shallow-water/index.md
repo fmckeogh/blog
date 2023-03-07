@@ -1,7 +1,7 @@
 ---
 title: Rewriting FORTRAN Software In Rust
 date: 2020-07-14
-hero: "/images/shallow-water.jpg"
+hero: "/blog/images/shallow-water.jpg"
 authors:
   - Ferdia McKeogh
 ---

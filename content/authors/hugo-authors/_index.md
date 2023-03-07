@@ -1,12 +1,10 @@
 ---
 title: Ferdia McKeogh
 bio: |
-  I like Rust, drones, photography and whatnot.
-avatar: /images/profile.jpeg
+  I like Rust, drones, photography, cycling, and others.
+avatar: https://avatars.githubusercontent.com/u/8290136
 featured: true
 social:
-  - title: twitter
-    url: "https://twitter.com/chocol4te1"
   - title: github
     url: "https://github.com/fmckeogh"
   - title: instagram

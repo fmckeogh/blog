@@ -1,7 +1,7 @@
 +++
 title = "Galileo constellation support on the Navio2"
 date = 2019-07-07
-hero = "/images/galileo-navio2.png"
+hero = "/blog/images/galileo-navio2.png"
 +++
 
 The [Navio2](https://emlid.com/navio/) is a daughterboard for the Raspberry Pi 2/3 that allows you to use the Pi for robotics projects. It contains an array of sensors and IO, including IMUs, a barometer, and a GPS module. A [u-blox NEO-M8N module](https://www.u-blox.com/en/product/neo-m8-series) to be exact. This GPS module was produced initially with a version 2 firmware which supported [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) and [GLONASS](https://en.wikipedia.org/wiki/GLONASS), and later a version 3 which added [Galileo](<https://en.wikipedia.org/wiki/Galileo_(satellite_navigation)>) support. Unfortunately the Navio2 board that I had only had version 2. Being the upstanding European citizen that I am, I felt it my duty, nae my _responsibility_ to fiddle with the module until I could use that satellite constellation.
