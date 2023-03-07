@@ -1,11 +1,10 @@
-baseURL: "https://fmckeogh.github.io"
+baseURL: "https://fmckeogh.github.io/blog"
 languageCode: "en-gb"
-title: "fmckeogh.github.io"
+title: "Ferdia's Blog"
 theme: "novela"
 pygmentsstyle: "monokai"
 paginate: 10
 social:
-  twitter: "https://twitter.com/chocol4te1"
   github: "https://github.com/fmckeogh"
   instagram: "https://www.instagram.com/ferdiamckeogh/"
   linkedin: "https://www.linkedin.com/in/ferdia-mckeogh-5b042b194"
